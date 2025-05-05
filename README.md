@@ -14,7 +14,7 @@ Il faut respecter des sections précises : `IDENTIFICATION DIVISION`, `DATA DIVI
 
 COBOL est resté fidèle à sa forme des années 60-80, ce qui le rend très différent des langages récents.
 
-Outils et environnements parfois obsolètes
+4. Outils et environnements parfois obsolètes
 
 Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérouter.
 
