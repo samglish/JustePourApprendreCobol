@@ -54,7 +54,7 @@ Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérou
 ```
  Pour exécuter avec GnuCOBOL :
 
-```sh
+```bash
 cobc -x calculatrice.cob
 ./calculatrice
 ```
