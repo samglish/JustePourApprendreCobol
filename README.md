@@ -23,3 +23,6 @@ Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérou
 * Traitement massif de données structurées (fichiers plats, registres, etc.).
 * Très demandé dans la maintenance de systèmes anciens.
 
+  Exemple : Demander deux nombres à l'utilisateur, puis effectuer une addition ou une soustraction.
+  
+
