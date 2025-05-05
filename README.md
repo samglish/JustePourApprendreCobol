@@ -52,11 +52,9 @@ Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérou
            DISPLAY "Le résultat est : " RESULTAT
            STOP RUN.
 ```
- Pour exécuter avec GnuCOBOL :
-
 <hr>
-
-```
+ Pour exécuter avec GnuCOBOL :
+```bash
 cobc -x calculatrice.cob
 ./calculatrice
 ```
