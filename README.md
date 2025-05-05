@@ -8,9 +8,9 @@ On écrit presque des phrases en anglais : `ADD NOMBRE1 TO NOMBRE2 GIVING RESULT
 
 2. Division stricte du code
 
-Il faut respecter des sections précises : IDENTIFICATION DIVISION, DATA DIVISION, PROCEDURE DIVISION…
+Il faut respecter des sections précises : `IDENTIFICATION DIVISION`, `DATA DIVISION`, `PROCEDURE DIVISION`…
 
-Peu d’évolution du langage
+3. Peu d’évolution du langage
 
 COBOL est resté fidèle à sa forme des années 60-80, ce qui le rend très différent des langages récents.
 
