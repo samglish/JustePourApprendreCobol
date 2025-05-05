@@ -24,6 +24,7 @@ Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérou
 * Très demandé dans la maintenance de systèmes anciens.
 
   Exemple : Demander deux nombres à l'utilisateur, puis effectuer une addition ou une soustraction.
+  
   ```cobol
          IDENTIFICATION DIVISION.
        PROGRAM-ID. CALCULATRICE.
@@ -51,4 +52,9 @@ Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérou
            DISPLAY "Le résultat est : " RESULTAT
            STOP RUN.
 ```
+ Pour exécuter avec GnuCOBOL :
 
+```sh
+cobc -x calculatrice.cob
+./calculatrice
+```
