@@ -1,7 +1,7 @@
 # JustePourApprendreCobol
 COBOL est resté fidèle à sa forme des années 60-80, ce qui le rend très différent des langages récents.
 
-### Pourquoi COBOL paraît compliqué :
+## I. Pourquoi COBOL paraît compliqué :
 
 1. Syntaxe très verbeuse 
 On écrit presque des phrases en anglais : `ADD NOMBRE1 TO NOMBRE2 GIVING RESULTAT` au lieu de `resultat = nombre1 + nombre2.`
@@ -17,4 +17,9 @@ COBOL est resté fidèle à sa forme des années 60-80, ce qui le rend très dif
 4. Outils et environnements parfois obsolètes
 
 Beaucoup de projets COBOL tournent encore sur des mainframes, ce qui peut dérouter.
+
+## II. Mais COBOL a aussi des avantages :
+* Fiabilité extrême – utilisé dans les banques et assurances depuis plus de 60 ans.
+* Traitement massif de données structurées (fichiers plats, registres, etc.).
+* Très demandé dans la maintenance de systèmes anciens.
 
